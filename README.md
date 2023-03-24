@@ -1,5 +1,5 @@
 # NLP-spam-detector
-## Click Here https://spam-detector-ankur.herokuapp.com/ to redirect to website where it is hosted 
+## Click Here https://spam-detector-ankur.herokuapp.com/ to redirect to website where it is hosted  (not working as free tier over)
 
 ### Natural Language Processimg 
 **Approach** - I have data of some text msg . Some are spam and some are not . After cleaning and other preprocessing , i saparate out spam and non - spam msg . 
